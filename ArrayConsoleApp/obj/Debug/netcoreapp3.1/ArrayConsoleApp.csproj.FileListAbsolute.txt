@@ -1,0 +1,14 @@
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\netcoreapp3.1\ArrayConsoleApp.exe
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\netcoreapp3.1\ArrayConsoleApp.deps.json
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\netcoreapp3.1\ArrayConsoleApp.runtimeconfig.json
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\netcoreapp3.1\ArrayConsoleApp.runtimeconfig.dev.json
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\netcoreapp3.1\ArrayConsoleApp.dll
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\netcoreapp3.1\ArrayConsoleApp.pdb
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\netcoreapp3.1\ArrayConsoleApp.csproj.AssemblyReference.cache
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\netcoreapp3.1\ArrayConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\netcoreapp3.1\ArrayConsoleApp.AssemblyInfoInputs.cache
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\netcoreapp3.1\ArrayConsoleApp.AssemblyInfo.cs
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\netcoreapp3.1\ArrayConsoleApp.csproj.CoreCompileInputs.cache
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\netcoreapp3.1\ArrayConsoleApp.dll
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\netcoreapp3.1\ArrayConsoleApp.pdb
+D:\My programming projects\programming\C#\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\netcoreapp3.1\ArrayConsoleApp.genruntimeconfig.cache
